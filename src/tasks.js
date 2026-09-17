@@ -1,4 +1,4 @@
-// CampusEats task list
+﻿// CampusEats task list
 const tasks = [
   "Design the menu screen",
   "Build the orders API",
@@ -19,4 +19,4 @@ function calculateTotal(price, quantity, customerType) {
 }
 
 // the API key comes from an environment variable,
-// e.g. process.env.API_KEY — never hard-coded
+// e.g. process.env.API_KEY â€” never hard-coded
